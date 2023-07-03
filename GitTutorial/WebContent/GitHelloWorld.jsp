@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>見出しです</h1>
 hello wordl new comments
 </body>
 </html>

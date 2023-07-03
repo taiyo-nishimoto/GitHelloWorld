@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello wordl new comments
+hello wordl
 </body>
 </html>

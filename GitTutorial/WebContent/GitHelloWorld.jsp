@@ -8,5 +8,7 @@
 </head>
 <body>
 hello wordl
+これは新しいコメントです。
+ほげｈごえ。
 </body>
 </html>
